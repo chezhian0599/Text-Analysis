@@ -85,5 +85,5 @@ Sum of the total number of characters in each word/Total number of words
 ## **Execution:**
 To Calculate the scores I have **defined function**, with the help of those functions I have calculated the Scores.
 
-Finally I have Stored all the data in a csv file .
+Finally I have Stored all the data in a csv file.
   
